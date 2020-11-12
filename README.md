@@ -12,7 +12,7 @@
   <a href="#open_file_folder-referência">Referências</a>
 </p>
 
-## :flying_saucer: Sobre o projeto
+## :candle: Sobre o projeto
 
 O projeto visa desenvolver um joguinho baseado nos jogos de rpg de Pokemón do Gameboy. O jogo foi escrito do zero, passo a passo para aprender os principais conceitos da orientação à objetos.
 
